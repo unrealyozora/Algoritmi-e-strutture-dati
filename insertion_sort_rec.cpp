@@ -40,8 +40,3 @@ void insertion_sort_rec(int* a, int len){
 
 }
 
-//prova
-
-void recursive_sera(){
-    printf("%D", 4);
-}
