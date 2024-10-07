@@ -39,3 +39,9 @@ void insertion_sort_rec(int* a, int len){
     a[i+1]=key;
 
 }
+
+//prova
+
+void recursive_sera(){
+    printf("%D", 4);
+}
